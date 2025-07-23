@@ -1,4 +1,4 @@
-public class _002_DataTypeAndVariable {
+public class _002_Variable {
 	public static void main(String[] args) {
 		//integer
 		int a;  	//declaration n' definition
