@@ -6,6 +6,7 @@ public class _006_Conditions {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("정수를 입력하시오. : ");
 		int num = sc.nextInt();
+		sc.close();
 		
 		if(num == 10) System.out.println("correct, 10.");
 		else if(num < 10) System.out.println("Up!");
